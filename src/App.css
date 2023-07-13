@@ -1,7 +1,26 @@
 .App {
   text-align: center;
+  margin: 25px;
 }
 
 .Header {
   background-color: orange;
+}
+
+.recipeDetails {
+  border: 5px solid orange;
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  line-height: 2;
+  max-width: 30%;
+  padding: 15px;
+}
+
+.ingredientDetails {
+  margin: auto;
+  width: 30%;
+  text-align: center;
+  border: 5px solid orange;
+  padding: 15px;
 }
